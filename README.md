@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @back-87
-- 💞️ I’m looking to collaborate on ... Ethereum projects
+- 💞️ I’m looking to collaborate on ... Ethereum, Security, Swift/Objective-C/CoreFoundation projects
 - 📫 How to reach me ... efault theatsign pm dot me
 
 <!---
